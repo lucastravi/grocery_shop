@@ -1,6 +1,6 @@
 # Grocery Shop Transactions - Apriori Algorithm
 
-The apriori.py code is from https://www.superdatascience.com/
+The apriori.py code and Market_Basket_Optimisation.csv file are from https://www.superdatascience.com/
 
 To run this project:
 1. Anaconda Navigator for Python 3
